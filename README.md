@@ -1,0 +1,2 @@
+# imageresize
+PHP Thumb Maker
